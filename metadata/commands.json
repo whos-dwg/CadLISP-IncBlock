@@ -1,0 +1,11 @@
+[
+  {
+    "file": "lsp/Incblock.lsp",
+    "commands": [
+      "INCBLOCK"
+    ],
+    "title": "圖塊屬性尾碼遞增",
+    "category": "屬性與編號",
+    "manual": "README.md"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "snapshot_date": "2026-10-27",
+  "scope": "One independent LISP tool; original bytes preserved",
+  "files": [
+    {
+      "path": "lsp/Incblock.lsp",
+      "bytes": 4639,
+      "sha256": "2f1576db496d7d368070ceb9aa20b07e57ce7a2481a8bd8eb8a4530a9052daac",
+      "encoding": "utf-8",
+      "bom": false,
+      "commands": [
+        {
+          "name": "INCBLOCK",
+          "line": 1
+        }
+      ]
+    }
+  ]
+}
